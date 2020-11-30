@@ -6,7 +6,7 @@
 
 O projeto **AuthNotify** é uma aplicação para controle de sessão do usuário com Login de e-mail e senha. Ele também conta com a implementação de envio de e-mail, dando uma breve messagem de Bem-Vindo ao sistema e também notifica dentro do sistema quando o usuário faz sua primeira sessão!!
 
-[**Link para o Frontend:**](https://github.com/CarlosAugusto2128/authenticated-notify-frontend)
+[**Link para o Frontend:**](https://github.com/CarlosAug-tech/authentication-web)
 
 ---
 
